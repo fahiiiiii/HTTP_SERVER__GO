@@ -1,10 +1,10 @@
-# HTTP server in Go
+# Static File Server in GO
 
-This project is simply a HTTP server ,which can serve static files and ghandle errors using GO language..!
+This project is simply a HTTP server ,which can serve static files and handle errors build with GO...!
 
 ## Features
-
-A client will smoothly be served static files ,because Go is a very fast and smooth for loading data.
+Serve static files based on user request
+Maintains modularity
 
 ## Prerequisites
 
