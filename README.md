@@ -10,3 +10,25 @@ A client will smoothly be served static files ,because Go is a very fast and smo
 
 -GO
 
+## Installation and Setup
+
+1.Clone the repository:
+```bash
+git clone https://github.com/fahiiiiii/HTTP_SERVER__GO
+cd HTTP_SERVER__GO
+```
+## Running the commands
+To run the application:
+```bash
+go run main.go
+```
+###### To view the static pages:
+View the first page
+```
+http://localhost:3030/templated_page.html
+```
+
+View the second page 
+```
+http://localhost:3030/templated_page_two.html
+```
